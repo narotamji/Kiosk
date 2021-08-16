@@ -36,13 +36,12 @@ ul li::before {
     margin-left: -1em;
   }
 
-/* IDs */
-#heading {
+
+/* classes */
+.heading {
     margin: 2rem 0;
 }
 
-
-/* classes */
 .main-heading {
     margin: 1rem auto 1rem;
     text-align: center;
@@ -90,7 +89,7 @@ ul li::before {
         flex-direction: row;
         align-items: center;
         width: 335px;
-        margin: 1rem auto;
+        margin: 1.5rem auto;
     }
 
     .main-heading {
