@@ -53,14 +53,14 @@ ul li::before {
 }
 
 .separator {
-    width: 15%;
+    width: 17%;
     height: 3px;
     background-color: #25aae1;
     margin: 0 auto;
 }
 
 .desc-text {
-    font-size: 10pt;
+    font-size: 12pt;
     font-weight: lighter;
     line-height: 2;
 }
